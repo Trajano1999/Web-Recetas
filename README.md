@@ -4,9 +4,9 @@ Práctica final de la asignatura de **Desarrollo de Aplicaciones para Internet**
 
 ## Descripción
 
-Esta página web se encarga de almacenar recetas. Una vez accedes a ella puedes crear, editar y eliminar recetas para tus comidas o cenas diarias. Te permite además introducir una iamgen del resultado final de la receta. 
+Esta página web se encarga de almacenar recetas tanto de comida como bebida. Una vez accedes a ella puedes indicar los ingredientes necesarios y/o las instrucciones a seguir. Puedes crear, editar y eliminar recetas para tus comidas y cenas diarias de lo más originales. Te permite además modificar el tamaño de letra o cambiar al modo nocturno si es que te dispones a cenar.
 
-Además, el archivo `/dump/cockteles/recipes.json` contiene distintas recetas que se pueden añadir a la página.
+Por otro lado, el archivo `/dump/cockteles/recipes.json` contiene distintas recetas de cockteles que se pueden añadir a la página web.
 
 ## Ejecución
 
