@@ -1,4 +1,4 @@
-# Web Comidas
+# Web Recetas
 
 Práctica final de la asignatura de **Desarrollo de Aplicaciones para Internet**.
 
