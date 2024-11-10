@@ -10,7 +10,7 @@ Por otro lado, el archivo ``/dump/cockteles/recipes.json`` contiene distintas re
 
 ## Ejecución
 
-Para la ejecución de este proyecto en **Windows**, es necesario tener instalado primero ``Docker``, una herramienta que nos permitirá lanzar nuestra aplicación.
+Para la ejecución de este proyecto en **Windows**, es necesario tener instalado primero **Docker**, una herramienta que nos permitirá lanzar nuestra aplicación.
 
 Una vez instalada, el uso de la página web es sencillo. Solo debemos ejecutar el siguiente comando en esta misma carpeta, que se encargará de construir la aplicación:
 
